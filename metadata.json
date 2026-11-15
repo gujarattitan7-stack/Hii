@@ -1,0 +1,6 @@
+{
+  "name": "Imposter G",
+  "description": "Offline Realistic Cartoon 3D social deduction party game for 1-10 players with Practice Bots, Challenge Wheel, Secret Missions, and English/Hindi support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
